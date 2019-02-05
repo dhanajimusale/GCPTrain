@@ -1,14 +1,14 @@
-# GCPTrain
+# GCPTrain - Startup Script for Load Balancer Test - HTTP. 
 
 For US west 
 
-wget https://github.com/dhanajimusale/GCPTrain/blob/master/fronend-uswest.py
+wget https://raw.githubusercontent.com/dhanajimusale/GCPTrain/master/fronend-uswest.py
 
 sudo python frontend-uswest.py &
 
 
 for  asia 
 
-wget https://github.com/dhanajimusale/GCPTrain/blob/master/frontend-asia.py
+wget https://raw.githubusercontent.com/dhanajimusale/GCPTrain/master/frontend-asia.py
 
 sudo python frontend-asia.py &
