@@ -36,5 +36,5 @@ apt-get update
 
 wget https://raw.githubusercontent.com/dhanajimusale/GCPTrain/master/frontend_europe.py
 
-sudo python frontend-asia.py &
+sudo python frontend-europe.py &
 
