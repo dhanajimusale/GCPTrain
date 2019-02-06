@@ -39,6 +39,8 @@ wget https://raw.githubusercontent.com/dhanajimusale/GCPTrain/master/frontend_eu
 sudo python frontend_europe.py &
 
 
+############################################################################
+
 
 Curl Command
 
