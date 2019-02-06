@@ -11,6 +11,8 @@ wget https://raw.githubusercontent.com/dhanajimusale/GCPTrain/master/fronend-usw
 sudo python frontend-uswest.py &
 
 
+.
+
 
 For  Asia 
 
@@ -22,6 +24,8 @@ wget https://raw.githubusercontent.com/dhanajimusale/GCPTrain/master/frontend-as
 
 sudo python frontend-asia.py &
 
+
+.
 
 
 For  Europe 
