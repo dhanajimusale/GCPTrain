@@ -40,11 +40,15 @@ sudo python frontend_europe.py &
 
 
 
-Curl 
+Curl Command
+
 Slow 
+
 while true ; do (curl [Load Balancer ExternalIP] ) ; sleep 2 ; done 
 
+
 Fast
+
 while true ; do (curl [Load Balancer ExternalIP] ) ; sleep 0.1 ; done 
 
 
