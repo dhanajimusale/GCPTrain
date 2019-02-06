@@ -38,3 +38,13 @@ wget https://raw.githubusercontent.com/dhanajimusale/GCPTrain/master/frontend_eu
 
 sudo python frontend_europe.py &
 
+
+
+Curl 
+Slow 
+while true ; do (curl [Load Balancer ExternalIP] ) ; sleep 2 ; done 
+
+Fast
+while true ; do (curl [Load Balancer ExternalIP] ) ; sleep 0.1 ; done 
+
+
