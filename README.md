@@ -8,7 +8,7 @@ apt-get update
 
 wget https://raw.githubusercontent.com/dhanajimusale/GCPTrain/master/fronend-uswest.py
 
-sudo python frontend-uswest.py &
+sudo python fronend-uswest.py &
 
 
 .
