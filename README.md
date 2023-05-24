@@ -54,3 +54,13 @@ Fast
 while true ; do (curl http://[Load Balancer ExternalIP]/service ) ; sleep 0.1 ; done 
 
 
+
+
+Sample Apache Server 
+
+sudo apt update && sudo apt -y install apache2
+
+sudo systemctl status apache2
+
+echo '<!doctype html><html><body><h1>Hello World!</h1></body></html>' | sudo tee /var/www/html/index.html
+  
